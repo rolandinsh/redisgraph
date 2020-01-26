@@ -5,7 +5,9 @@ run `docker-compose up -d`
  
 ## Docker hosting
  
-Recommended 1 GB of RAM and 2GB disc
+Recommended 2 GB of RAM and 8GB disc
+
+The more RAM the better :)
  
 ### Linode
  
